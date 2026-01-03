@@ -1,6 +1,6 @@
 # SAF Skyrmion Micromagnetic Code
 
-This folder contains the micromagnetic simulation codes and data used in:
+This folder contains the micromagnetic simulation codes used in:
 
 "Layer-resolved probing of nonadiabatic spin-transfer torque by skyrmion Hall angle
 in synthetic antiferromagnets"
