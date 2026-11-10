@@ -1,4 +1,4 @@
-# SAF Skyrmion Micromagnetic Code
+# Micromagnetic Simulation Code for Current-Driven Skyrmion Dynamics in Compensated Synthetic Ferrimagnetic Bilayers
 
 This folder contains the micromagnetic simulation codes used in:
 
